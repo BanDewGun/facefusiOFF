@@ -1,7 +1,9 @@
 FaceFusion
 ==========
 
-> Test off NSFW filter
+> A test edited Facefusion project with the ability to make videos without censorship restrictions.
+> The preview is also blurring, but the processed video can be saved.
+> Original - https://github.com/facefusion/facefusion
 
 
 
